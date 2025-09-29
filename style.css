@@ -10,7 +10,7 @@ html {
 
 
 body {
-    background-color: hsl(330, 100%, 98%);
+    background-color: hsl(30, 54%, 90%);
 }
 
 header, main {
@@ -129,4 +129,5 @@ li {
     header img {
         border-radius: 0px;
     }
+
 }
